@@ -1,6 +1,6 @@
 # React Boilerplate v1
 
-A react boilerplate.
+A React boilerplate.
 
 ## Project
 
