@@ -43,7 +43,6 @@ npm test
 * React Router
 * Redux
 * Redux-thunk
-* Babel
 * jQuery
 * Express.js
 * CSS
